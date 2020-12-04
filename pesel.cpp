@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <array>
-#include "funckje.h"
+#include "funkcje.h"
 
 
 int main()
